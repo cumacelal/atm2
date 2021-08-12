@@ -72,7 +72,7 @@
             <div class="col-sm-12">
                 <label for="fname">Adı-Soyadı:xxxxx</label><br>
                 <br>
-                 <label for="lname">Bakiye: 10000
+                 <label for="lname">Bakiye: 10000 TL
 
                  </label><br>
                <br><br>
